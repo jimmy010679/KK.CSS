@@ -23,6 +23,7 @@
     </div>
     <div class="col">
     </div>
+  </div>
 </div>
  ```
  
@@ -36,6 +37,7 @@
     </div>
     <div class="col md-4 xs-6">
     </div>
+  </div>    
 </div>
  ```
  
@@ -58,6 +60,7 @@
   <div class="row">
     <div class="col align-self-center">
     </div>
+  </div>    
 </div>
  ```
  or
@@ -66,6 +69,7 @@
   <div class="row flex-center">
     <div class="col">
     </div>
+  </div>    
 </div>
  ```
  
@@ -81,6 +85,7 @@
     <div class="col">
       002
     </div>
+  </div>    
 </div>
  ```
  
