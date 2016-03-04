@@ -49,6 +49,43 @@
 | lg            | < 1200 px     |
 | xl            | < 1400 px     |
 | xxl           | > 1400 px     |
+
+
+**重直置中**
+
+ ``` html
+<div class="container">
+  <div class="row">
+    <div class="col align-self-center">
+    </div>
+</div>
+ ```
+ or
+ ``` html
+<div class="container">
+  <div class="row flex-center">
+    <div class="col">
+    </div>
+</div>
+ ```
+ 
+ **排序**
+ 
+ 反相向
+ ``` html
+<div class="container">
+  <div class="row dir-row_rev">
+    <div class="col">
+      001
+    </div>
+    <div class="col">
+      002
+    </div>
+</div>
+ ```
+ 
+ 
+
   
 ##參考資料
 * [Flexbox playgroung](http://codepen.io/enxaneta/pen/adLPwv)
