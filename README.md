@@ -15,7 +15,9 @@
  
 ##版型結構
 
-**基本4欄**
+12欄制
+
+**基本3欄**
 ``` html
 <div class="container">
   <div class="row">
