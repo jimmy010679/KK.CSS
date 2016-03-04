@@ -91,20 +91,16 @@
 </div>
  ```
  
- 
+##版本訊息
+- 2016/03/04 - v1.0.0 發布
 
-  
+##未來
+輕量框架，學習練習用途 o'_'o
+
+
 ##參考資料
 * [CSS Tools: Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
 * [Flexbox playgroung](http://codepen.io/enxaneta/pen/adLPwv)
 * [Bootstrap 4 Flex Box Grid Demo](http://codepen.io/ncerminara/pen/EjqbPj/)
 * [Flexbox Grid](http://flexboxgrid.com/)
-  
-
-
-
-
-
-
-
-
+* 
