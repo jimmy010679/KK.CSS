@@ -421,6 +421,7 @@ button {
     -webkit-flex: 0 0 25%;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
+    max-width: 25%;
   }
   .md-4 {
     -webkit-box-flex: 0;
@@ -507,6 +508,7 @@ button {
     -webkit-flex: 0 0 25%;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
+    max-width: 25%;
   }
   .lg-4 {
     -webkit-box-flex: 0;
@@ -593,6 +595,7 @@ button {
     -webkit-flex: 0 0 25%;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
+    max-width: 25%;
   }
   .xl-4 {
     -webkit-box-flex: 0;
@@ -678,6 +681,7 @@ button {
     -webkit-flex: 0 0 25%;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
+    max-width: 25%;
   }
   .xxl-4 {
     -webkit-box-flex: 0;
