@@ -105,4 +105,5 @@
 * [Flexbox playgroung](http://codepen.io/enxaneta/pen/adLPwv)
 * [Bootstrap 4 Flex Box Grid Demo](http://codepen.io/ncerminara/pen/EjqbPj/)
 * [Flexbox Grid](http://flexboxgrid.com/)
-* 
+* [flexbugs](https://github.com/philipwalton/flexbugs)
+* [IE (11), padding on child elements #3](https://github.com/philipwalton/flexbugs/issues/3)
