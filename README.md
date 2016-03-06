@@ -24,7 +24,7 @@ Front-end Framework
 ##使用方式
 **引入CSS**
 ``` html
-<link rel="stylesheet" type="text/css" href="./css/kkk-ui.css">
+<link rel="stylesheet" type="text/css" href="./css/kkk.css">
  ```
  
 ##版型結構
