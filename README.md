@@ -1,8 +1,10 @@
-# KKK-UI
+# KKK.CSS
 
-ㄎㄎㄎUI (科科科)
+ㄎㄎㄎ.CSS (科科科)
 
-基於Flexbox所製作的UI
+Front-end Framework
+
+基於Flexbox所製作的框架
 
 ##版本訊息
 
