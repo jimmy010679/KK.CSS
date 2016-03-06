@@ -1,4 +1,5 @@
-# KYJ-UI
+# KKK-UI
+ㄎㄎㄎUI (科科科)
 基於Flexbox所製作的UI
 
 ##版本訊息
@@ -19,7 +20,7 @@
 ##使用方式
 **引入CSS**
 ``` html
-<link rel="stylesheet" type="text/css" href="./css/kyj-ui.css">
+<link rel="stylesheet" type="text/css" href="./css/kkk-ui.css">
  ```
  
 ##版型結構
