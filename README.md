@@ -1,6 +1,6 @@
-# KKK.CSS
+# KK.CSS
 
-ㄎㄎㄎ.CSS (科科科)
+ㄎㄎ.CSS (科科)
 
 Front-end Framework
 
